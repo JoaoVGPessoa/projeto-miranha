@@ -57,6 +57,24 @@
   margin-bottom: 30px;
 }
 
+.s-wrapper .s-main-content .s-logo .s-homecominglogo{
+  margin-top: 20px;
+  margin-left: 0;
+  margin-bottom: 10px;
+}
+
+.s-wrapper .s-main-content .s-logo .s-farfromhomelogo{
+  margin-top: 10px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+
+.s-wrapper .s-main-content .s-logo .s-nowayhomelogo {
+  margin-top: 1px;
+  margin-left: 8px;
+  margin-bottom: 1px;
+}
+
 .s-wrapper .s-main-content__top .s-description {
   background-color: rgba(0, 0, 0, .7);
   max-width: 50%;
